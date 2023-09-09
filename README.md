@@ -1,4 +1,5 @@
-### Hi there 👋
+### ¡Hola a Todos! 👋 
+### Mi nombre es Jonathan, soy estudiante de programación autodidacta y aqui intentaré ir subiendo mis practicas y habilidades desarrolladas a lo largo de mi aprendizaje.
 
 <!--
 **aguilar2902/aguilar2902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
